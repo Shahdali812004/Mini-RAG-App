@@ -1,6 +1,7 @@
 from fastapi import FastAPI
+from dotenv import load_dotenv
+load_dotenv() # to load environment variables from .env file in the system
+from routes.base import base_router
 app = FastAPI()
 
-@app.get("/welcome")
-def read_root():
-    return {"message": "Hello World"}
+app.include_router(base_router)
