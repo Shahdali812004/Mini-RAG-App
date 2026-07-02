@@ -1,0 +1,9 @@
+Dear Hiring Team,
+I am writing to express my interest in the VOIS EG Explore Programme. I am a recent Computer Science graduate specializing in Artificial Intelligence, with a strong passion for machine learning, natural language processing, and Generative AI.
+Throughout my academic journey, I gained hands-on experience in machine learning and deep learning through multiple practical projects. My graduation project focused on Arabic Question Generation using transformer-based models, where I worked on data preprocessing, model fine-tuning, and evaluation techniques. This experience strengthened both my technical and problem-solving skills.
+In addition, I have experience working with tools and frameworks such as Hugging Face Transformers and end-to-end machine learning pipelines. Currently, I am focusing on Large Language Models (LLMs), particularly fine-tuning models and building Retrieval-Augmented Generation (RAG) systems. I am continuously developing projects to deepen my understanding and apply AI solutions to real-world challenges.
+I am excited about the VOIS EG Explore Programme because it represents an excellent opportunity to learn from experienced professionals, work in a collaborative environment, and further develop both my technical and professional skills. I am highly motivated, eager to learn, and enthusiastic about contributing to innovative projects while growing within your organization.
+I would greatly appreciate the opportunity to further discuss how my background and passion align with the goals of the programme. Thank you for your time and consideration.
+Sincerely,
+Shahd Ahmed
+
