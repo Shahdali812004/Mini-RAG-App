@@ -4,6 +4,7 @@ from .BaseController import BaseController
 from .ProjectController import ProjectController
 from fastapi import UploadFile
 from models import ResponseSignal
+
 class DataController(BaseController):
     def __init__(self):
         super().__init__()
