@@ -8,7 +8,7 @@ class DataChunk(BaseModel):
     chunk_metadata: dict 
     chunk_order: int = Field(..., gt=0)
     chunk_project_id: ObjectId 
-
+    chunk_asset_id: ObjectId
    # to skip error when serializing ObjectId to JSON
     class Config:
         arbitrary_types_allowed = True
