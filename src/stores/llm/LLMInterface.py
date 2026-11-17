@@ -1,6 +1,6 @@
-from abc import APC ,abstractmethod
+from abc import ABC ,abstractmethod
 
-class LLMInterface(APC):
+class LLMInterface(ABC):
 
     @abstractmethod
     def set_embedding_model(self, model_id: str, embedding_size:int):
