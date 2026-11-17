@@ -3,7 +3,7 @@ from providers import OpenAIProvider,CoHereProvider
 
 class LLMFactory:
     def __init__(self, config:dict):
-        self.cofig = config
+        self.config = config
 
 
     def create(self, provider: str):
